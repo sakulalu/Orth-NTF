@@ -9,3 +9,5 @@ Before running MainTest.m, follow these steps to adjust the dataset and its corr
 1. change the dataset name
 2. change the data pre-processing option
 3. input the right parameter: anchorRate, p and lambda
+```
+Paper:Orthogonal Non-negative Tensor Factorization based Multi-view Clustering
